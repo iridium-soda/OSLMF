@@ -1,4 +1,5 @@
-numpy==15.1
+numpy
 matplotlib
 scipy
 scikit-learn
+pandas

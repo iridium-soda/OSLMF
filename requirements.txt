@@ -3,3 +3,4 @@ matplotlib
 scipy
 scikit-learn
 pandas
+python-dateutil==2.8.2

@@ -12,7 +12,7 @@ The overall framework of this project is designed as follows
 1. Clone this repository
 
 ```
-git clone https://github.com/OSLMF/OSLMF_Algo.git
+git clone https://github.com/iridium-soda/OSLMF_Algo.git
 ```
 
 2. Make sure you meet package requirements by running:

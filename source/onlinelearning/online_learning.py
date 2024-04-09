@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.metrics import mean_squared_error
 from source.onlinelearning.ftrl_adp import *
-from source.onlinelearning.fobos import FOBOS
+#from source.onlinelearning.fobos import FOBOS
 from sklearn import svm
 import math
 

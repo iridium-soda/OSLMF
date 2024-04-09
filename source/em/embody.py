@@ -17,7 +17,7 @@ def _em_step_body(Z, r_lower, r_upper, sigma, num_ord_updates=1):
     for i in range(num):
         try:
             c, z_imp, z = _em_step_body_row(Z[i,:], r_lower[i,:], r_upper[i,:], sigma)
-        except:
+        except:# FIXME: 似乎这里报了exception
             np.savetxt("Z.txt", Z)
             print(Z)
         Z_imp[i,:] = z_imp

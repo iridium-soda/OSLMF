@@ -21,7 +21,7 @@ git clone https://github.com/iridium-soda/OSLMF_Algo.git
 pip install -r requirements.txt
 ```
 
-3. Running OSLMF model
+3. Running OSLMF model under `source` directory
 
 ```python
 python OLSMF_Cap.py
